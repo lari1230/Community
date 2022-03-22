@@ -1,15 +1,15 @@
 img{
   border-radius: 15px;
-  width:1000px;
-  heidght:500px;
+  width: 1000px;
+  heidght: 500px;
 }
 
 body{
-  background-image:linear-gradient(purple,white,orange);
+  background-image: linear-gradient(purple,white,orange);
 }
 
 header a{
-  text-dicoration:none;
+  text-decoration: none;
   background: white;
   color: white;
   padding: 5px;
