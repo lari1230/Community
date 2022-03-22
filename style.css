@@ -5,5 +5,5 @@ img{
 }
 
 body{
-  background-color:linear-gradient(purple,white,orange);
+  background-image:linear-gradient(purple,white,orange);
 }
