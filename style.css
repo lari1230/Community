@@ -8,7 +8,7 @@ body{
   background-image: linear-gradient(purple,white,orange);
 }
 
-header a{
+nav a{
   text-decoration: none;
   background: white;
   color: white;
