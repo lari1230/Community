@@ -10,4 +10,12 @@ body{
 
 nav a{
   text-decoration: none;
+  background: white;
+  color: white;
+  padding: 30px;
+  margin: 10px 60px 10px 60px;
+  color: black;
+  border: 3px solid lightblue;
+  border-radius: 10px;
+  font-family: comic sans ms;
 }
