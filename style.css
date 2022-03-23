@@ -19,6 +19,6 @@ nav a{
   font-family: comic sans ms;
 }
 
-nav a::hover{
+nav a:hover{
   border: 4px solid blue;
 }
